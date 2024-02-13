@@ -1,0 +1,36 @@
+.to-do-list{
+    background-color: rgb(200, 255, 0);
+    width: 400px;
+    height: 200px;
+    margin: auto;
+
+
+}
+.to-do-list h1{
+    justify-content: center; /* Align horizontally */
+    text-align: center;
+}
+input{
+width: 200px;
+height: 30px;
+margin: 5px;
+
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+}
+ul li input{
+    width: 17px;
+    height: 15px 
+}
+
+.line {
+    text-decoration: line-through;
+}
+
+.success-checked {
+    /* Example styling; adjust as needed */
+    background-color: #e0e0e0;
+}
